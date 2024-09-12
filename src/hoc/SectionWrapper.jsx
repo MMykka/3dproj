@@ -20,7 +20,7 @@ const SectionWrapper = (Component, idName) =>
         )
     }
 
-
+    
 
 export default SectionWrapper
 
